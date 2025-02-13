@@ -129,7 +129,7 @@ reproducibility
 
 ### 📝 Publications
 
-[![IEEE Paper](https://img.shields.io/badge/IEEE-Published-00629B?logo=ieee)](https://ieeexplore.ieee.org/document/9702233)
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Published-00629B?logo=ieee)](https://ieeexplore.ieee.org/document/9702491)
 
 <br>
 
