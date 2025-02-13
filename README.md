@@ -1,8 +1,8 @@
-# Hi there 👋 I'm Greshma Shaji
+<div align="center">
+  <h1> Hi, I'm Greshma Shaji! </h1>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C7B7&width=435&lines=Data+Science+Master's+Student;MLOps+Engineer;AI+Researcher;Machine+Learning+Enthusiast" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7B7&width=435&lines=Data+Science+Master's+Student;Software+Engineer;AI+Researcher;Machine Learning Engineer" alt="Typing SVG" />
-</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GreshmaShaji&label=Profile+Views&color=00C7B7&style=flat" alt="profile views" />
@@ -15,6 +15,8 @@
   <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreshmaShaji&layout=compact&langs_count=10"/></a>&nbsp
   <a href=""><img src="https://github-readme-stats.vercel.app/api?username=GreshmaShaji&count_private=true&show_icons=true"/></a>
 </p>
+
+<br>
 
 ## 🛠️ Tech Stack
 ### Programming
@@ -50,18 +52,19 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Rest API](https://img.shields.io/badge/REST%20API-v1.1-lightgrey)
 
-## 📌 Pinned Projects
+<br>
 
-### 🚀 [Awesome Python Projects](https://github.com/GreshmaShaji/awesome-python-projects)
-A collection of amazing Python projects.
+### 📂 **Projects**
 
-### 🤖 [VoiceAI Chatbot](https://github.com/GreshmaShaji/VoiceAI-Chatbot)
-A chatbot powered by AI and NLP.
+#### 🚀 **Pinned Projects**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GreshmaShaji&repo=awesome-python-projects&theme=dark)](https://github.com/GreshmaShaji/awesome-python-projects)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GreshmaShaji&repo=VoiceAI-Chatbot&theme=dark)](https://github.com/GreshmaShaji/VoiceAI-Chatbot)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GreshmaShaji&repo=genai-article-generator&theme=dark)](https://github.com/GreshmaShaji/genai-article-generator)  
 
-### 🧠 [Customer Segmentation](https://github.com/GreshmaShaji/Customer-Segmentation-Clustering)
-Applying clustering techniques to optimize retail strategies.
+<br>
 
-## 💼 Experience Highlights
+### 💼 Experience Highlights
+
 <details>
 <summary> BMW - Quantum Computing Intern</summary>
   
@@ -113,21 +116,28 @@ reproducibility
 - Attended daily scrum meetings, actively sharing risks and roadblocks, and ensuring smooth project progress
 </details>
 
-## 📚 Education
+<br>
+
+### 📚 Education
+
 | Degree | Institution | Timeline |
 |--------|-------------|----------|
 | **M.Sc Data Science** | FAU Erlangen-Nürnberg | 2022-2025 |
 | **B.Tech CSE** | APJ Abdul Kalam TU | 2017-2021 |
 
+<br>
 
+### 📝 Publications
 
-# 📝 Publications
 [![IEEE Paper](https://img.shields.io/badge/IEEE-Published-00629B?logo=ieee)](https://ieeexplore.ieee.org/document/9702233)
 
+<br>
 
-## 🌍 Languages
-![English](https://img.shields.io/badge/-English-C2-0066CC)
-![German](https://img.shields.io/badge/-German-A2-000000)
-![Malayalam](https://img.shields.io/badge/-Malayalam-C2-DE3D3D)
+### Languages
 
-![Snake animation](https://github.com/GreshmaShaji/GreshmaShaji/blob/output/github-contribution-grid-snake.svg)
+![English](https://img.shields.io/badge/English-Fluent-blue)
+![German](https://img.shields.io/badge/German-Intermediate-yellow)
+![Malayalam](https://img.shields.io/badge/Malayalam-Native-green)
+
+✨ *“Learning never exhausts the mind.”* – Leonardo da Vinci  
+⭐ If you like my work, consider **starring** ⭐ my repositories!
